@@ -1,6 +1,6 @@
 [submodule "jieba-analysis"]
 	path = jieba-analysis
-	url = https://github.com/sing1ee/jieba-analysis.git
+	url = https://github.com/sing1ee/jieba-analysis/
 [submodule "jieba-analysis@4c16d01"]
 	path = jieba-analysis@4c16d01
 	url = https://github.com/sing1ee/jieba-analysis/
